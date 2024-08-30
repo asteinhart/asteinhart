@@ -2,8 +2,9 @@
 
 My name is Austin Steinhart (he/him) and I am a [Computer Science and Public Policy](https://capp.uchicago.edu/) graduate student at the University of Chicago. I am interested in civic tech, data journalism, and empowering local communities with data and technology.
 
-I am currently a writer and developer with the [Chicago Maroon](https://chicagomaroon.com/staff_name/austin-steinhart/), the university's independent student newspaper. This summer, I am a Data Science Journalism Fellow with the Mansueto Institute for Urban Innovation's [Local Data Journalism Initiative](https://miurban.uchicago.edu/opportunities/local-data-journalism-initiative/") working on stories about public transportation in Chicago. Previously, I worked on the analytics team at the Democratic National Committee. Before that, I led youth programming at [Changeist](https://www.changeist.org/).
+See my portfolio [here](https://asteinhart.github.io/).
 
+I am currently a writer and developer with the [Chicago Maroon](https://chicagomaroon.com/staff_name/austin-steinhart/), the university's independent student newspaper, and a research assistant with the [Mansueto Institute for Urban Innovation](https://miurban.uchicago.edu/). Previously, I served as a Data Science Journalism Fellow with the Mansueto Institute's [Local Data Journalism Initiative](https://miurban.uchicago.edu/opportunities/local-data-journalism-initiative/") researching bus service across the city of Chicago. Before that, I worked on the analytics team at the Democratic National Committee and led youth programming at [Changeist](https://www.changeist.org/).
 
 <!--
 **asteinhart/asteinhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
